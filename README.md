@@ -1,4 +1,4 @@
-
+"TITULO MODIFICADO POR RAMA A DIEGO ALTAMIRANO"
 # minGPT
 
 ![mingpt](mingpt.jpg)
