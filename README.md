@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "TITULO MODIFICADO POR RAMA A DIEGO ALTAMIRANO"
+=======
+"TITULO MODIFICADO POR RAMA B Marcelo Plazarte"
+>>>>>>> rama-b
 # minGPT
 
 ![mingpt](mingpt.jpg)
