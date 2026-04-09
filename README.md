@@ -1,4 +1,4 @@
-
+"TITULO MODIFICADO POR RAMA B Marcelo Plazarte"
 # minGPT
 
 ![mingpt](mingpt.jpg)
