@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-"TITULO MODIFICADO POR RAMA A DIEGO ALTAMIRANO"
-=======
-"TITULO MODIFICADO POR RAMA B Marcelo Plazarte"
->>>>>>> rama-b
+"Título final decidido tras el conflicto Diego Marcelo Altamirano Plazarte"
 # minGPT
 
 ![mingpt](mingpt.jpg)
